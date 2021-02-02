@@ -1,3 +1,4 @@
 ﻿ID,ID,Name,Description,Quantity,Icon,Ammo,MaxAmmo,Mesh,Class
 Potion,0,Poiton,Restores Health,1,,0,0,,
 Sword,1,Sword,A long broad sword,0,,0,0,,
+CoinBag,2,Coin Bag,This coin bag is very good,1,,0,0,,
